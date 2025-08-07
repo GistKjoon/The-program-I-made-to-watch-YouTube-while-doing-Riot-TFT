@@ -1,5 +1,12 @@
 깔고 스타트 버튼 누르기
+
+
+다운받고 터미널 실행 
+
+
 cd /Users/ ~~~~~~~~/OnTopKeeper
+( 당신이 설치할 주소임)
+
 
 rm -rf .build
 swift package clean
