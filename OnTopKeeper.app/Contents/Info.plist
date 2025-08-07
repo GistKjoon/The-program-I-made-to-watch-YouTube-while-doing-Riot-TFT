@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
    "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-  <key>CFBundleName</key>        <string>OnTopKeeper</string>
-  <key>CFBundleExecutable</key>  <string>OnTopKeeper</string>
-  <key>CFBundleIdentifier</key>  <string>com.yourid.OnTopKeeper</string>
-  <key>CFBundleVersion</key>     <string>1.0</string>
-  <key>CFBundlePackageType</key> <string>APPL</string>
-  <key>LSMinimumSystemVersion</key> <string>13.0</string>
-  <!-- 리소스 폴더에 AppIcon.icns를 넣었다면 활성화하세요 -->
-  <!-- <key>CFBundleIconFile</key><string>AppIcon</string> -->
-</dict>
-</plist>
+<plist version="1.0"><dict>
+  <key>CFBundleName</key><string>OnTopKeeper</string>
+  <key>CFBundleExecutable</key><string>OnTopKeeper</string>
+  <key>CFBundleIdentifier</key><string>com.yourid.OnTopKeeper</string>
+  <key>CFBundleVersion</key><string>1.0</string>
+  <key>CFBundlePackageType</key><string>APPL</string>
+  <key>LSMinimumSystemVersion</key><string>13.0</string>
+</dict></plist>
