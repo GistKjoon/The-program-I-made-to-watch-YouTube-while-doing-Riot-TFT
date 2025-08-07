@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:OnTopKeeper}",
+            "name": "Debug OnTopKeeper",
+            "program": "${workspaceFolder:OnTopKeeper}/.build/debug/OnTopKeeper",
+            "preLaunchTask": "swift: Build Debug OnTopKeeper"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:OnTopKeeper}",
+            "name": "Release OnTopKeeper",
+            "program": "${workspaceFolder:OnTopKeeper}/.build/release/OnTopKeeper",
+            "preLaunchTask": "swift: Build Release OnTopKeeper"
+        }
+    ]
+}
